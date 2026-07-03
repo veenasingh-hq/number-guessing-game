@@ -23,7 +23,7 @@ In this game, the computer randomly selects a number between **1 and 100**. The 
 ## 📂 Project Structure
 
 ```text
-number_guessing_game.py
+main.py
 README.md
 ```
 
